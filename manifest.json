@@ -1,0 +1,5 @@
+{
+  "modules": {
+    "ModuleName": { "version": "1.0", "url": "https://github.com/.../releases/download/v1.2.0/..ModuleName.zip" }
+  }
+}
