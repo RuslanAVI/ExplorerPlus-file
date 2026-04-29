@@ -7,6 +7,30 @@
     "MinMaxModule": { 
       "version": "1.0.0", 
       "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/MinMaxModule/MinMaxModule.zip" 
+    },
+    "ColorTheme": { 
+      "version": "1.0.0", 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/ColorTheme/ColorTheme.zip" 
+    },
+    "KeyRemap": { 
+      "version": "1.0.0", 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/KeyRemap/KeyRemap.zip" 
+    },
+    "QuickView": { 
+      "version": "1.0.0", 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/QuickView/QuickView.zip" 
+    },
+    "Resolution": { 
+      "version": "1.0.0", 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Resolution/Resolution.zip" 
+    },
+    "Zoom": { 
+      "version": "1.0.0", 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Zoom/Zoom.zip" 
+    },
+    "WindowDrag": { 
+      "version": "1.0.0", 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/WindowDrag/WindowDrag.zip" 
     }
   }
 }
