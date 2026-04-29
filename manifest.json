@@ -1,5 +1,5 @@
 {
   "modules": {
-    "ModuleName": { "version": "1.0", "url": "https://github.com/.../releases/download/v1.2.0/..ModuleName.zip" }
+    "ModuleName": { "version": "1.0.0", "url": "https://github.com/RuslanAVI/ExplorerPlus-file/blob/main/..MinMaxModule.zip" }
   }
 }
