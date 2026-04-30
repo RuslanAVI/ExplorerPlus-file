@@ -1,8 +1,9 @@
+```text
 ExplorerPlus.exe
 Modules/
-├── ..ColorTheme/
+├── ColorTheme/
 │   ├── ColorTheme.exe
 │   └── version.ini
-└── ..MinMaxModule/
+└── MinMaxModule/
     ├── MinMaxModule.exe
     └── version.ini
