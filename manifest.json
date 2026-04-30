@@ -6,31 +6,31 @@
   "modules": {
     "MinMaxModule": { 
       "version": "1.0.0", 
-      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/MinMaxModule/MinMaxModule.zip" 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/MinMaxModule.zip" 
     },
     "ColorTheme": { 
       "version": "1.0.1", 
-      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/ColorTheme/ColorTheme.zip" 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/ColorTheme.zip" 
     },
     "KeyRemap": { 
       "version": "1.0.0", 
-      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/KeyRemap/KeyRemap.zip" 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/KeyRemap.zip" 
     },
     "QuickView": { 
       "version": "1.0.0", 
-      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/QuickView/QuickView.zip" 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/QuickView.zip" 
     },
     "Resolution": { 
       "version": "1.0.0", 
-      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Resolution/Resolution.zip" 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/Resolution.zip" 
     },
     "Zoom": { 
       "version": "1.0.0", 
-      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Zoom/Zoom.zip" 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/Zoom.zip" 
     },
     "WindowDrag": { 
       "version": "1.0.0", 
-      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/WindowDrag/WindowDrag.zip" 
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/WindowDrag.zip" 
     }
   }
 }
