@@ -1,3 +1,4 @@
+ExplorerPlus — компактный набор утилит для Windows.
 ```text
 ExplorerPlus.exe
 Modules/
