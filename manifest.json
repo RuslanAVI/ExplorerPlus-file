@@ -34,8 +34,13 @@
       "description": "",
       "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/Zoom.zip" 
     },
-    "WindowDrag": { 
+    "LanguageSwitcher": { 
       "version": "1.0.0", 
+      "description": "",
+      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/LanguageSwitcher.zip" 
+    },
+    "WindowDrag": { 
+      "version": "1.0.1", 
       "description": "",
       "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/WindowDrag.zip" 
     }
