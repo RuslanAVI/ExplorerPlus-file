@@ -21,6 +21,9 @@ Modules/
 ├── WindowDrag/
 │   ├── WindowDrag.exe
 │   └── version.ini
+├── LanguageSwitcher/
+│   ├── LanguageSwitcher.exe
+│   └── version.ini
 └── Zoom/
     ├── Zoom.exe
     └── version.ini
