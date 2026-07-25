@@ -8,9 +8,6 @@ Modules/
 ├── KeyRemap/
 │   ├── KeyRemap.exe
 │   └── version.ini
-├── MinMaxModule/
-│   ├── MinMaxModule.exe
-│   └── version.ini
 ├── QuickView/
 │   ├── QuickView.exe
 │   ├── WebView2Loader.dll
