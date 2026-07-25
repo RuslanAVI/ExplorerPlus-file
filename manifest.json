@@ -4,11 +4,6 @@
     "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/HostUpdate/ExplorerPlusHost.zip"
   },
   "modules": {
-    "MinMaxModule": { 
-      "version": "1.0.0", 
-      "description": "",
-      "url": "https://github.com/RuslanAVI/ExplorerPlus-file/releases/download/Modules/MinMaxModule.zip" 
-    },
     "ColorTheme": { 
       "version": "1.0.1", 
       "description": "",
