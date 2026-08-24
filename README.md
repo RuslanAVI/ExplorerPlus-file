@@ -1,4 +1,5 @@
 ExplorerPlus — набор утилит для Windows.
+Программа находится в разработке.
 ```text
 ExplorerPlus.exe
 Modules/
